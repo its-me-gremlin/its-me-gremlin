@@ -1,4 +1,8 @@
-## Hi there 👋
+Hello
+
+Hi I am a teenage developer musician and artist I know a few programming languages being GDscript (the specialized language for godot game engine), HTML and CSS, a medium amount of JavaScript, and I'm learning python.
+
+My pronouns are They/them and you can contact me at its-me-gremlin@gremlincom.com
 
 <!--
 **its-me-gremlin/its-me-gremlin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
